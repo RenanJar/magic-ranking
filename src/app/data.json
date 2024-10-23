@@ -1,0 +1,98 @@
+[
+    {
+        "date":"2024-06-29",
+        "numberOfTurns":12,
+        "placing":[
+            {
+                "player":"Denilson",
+                "commander": ["Éowyn, Donzela do Escudo"],
+                "urlImage":"",
+                "placing":1
+            },
+            {
+                "player":"Martins G.",
+                "commander": ["Omnath, Locus de Tudo"],
+                "urlImage":"",
+                "placing":2
+            },
+            {
+                "player":"Renan O.",
+                "commander": ["Omnath, Locus de Fúria"],
+                "urlImage":"",
+                "placing":3
+            },
+            {
+                "player":"Marlon O.",
+                "commander": ["Henzie 'Arsenal' Torre"],
+                "urlImage":"",
+                "placing":4
+            }
+        ]
+    },
+    {
+        "date":"2024-06-29",
+        "numberOfTurns":12,
+        "placing":[
+            {
+                "player":"Renan O.",
+                "commander": ["Omnath, Locus de Fúria"],
+                "urlImage":"",
+                "placing":1
+            },
+            {
+                "player":"Denilson",
+                "commander": ["Frodo, Hobbit Aventureiro","Sam, Ajudante Leal"],
+                "urlImage":"",
+                "placing":2
+            },
+            {
+                "player":"Rodrigo O.",
+                "commander": ["Kwain, Intrometido Itinerante"],
+                "urlImage":"",
+                "placing":3
+            },
+            {
+                "player":"Martins G.",
+                "commander": ["Omnath, Locus de Tudo"],
+                "urlImage":"",
+                "placing":4
+            }, 
+            {
+                "player":"Marlon O.",
+                "commander": ["Zaxara, a Exemplar"],
+                "urlImage":"",
+                "placing":5
+            }
+        ]
+    },
+    {
+        "date":"2024-06-29",
+        "numberOfTurns":17,
+        "placing":[
+            {
+                "player":"Martins G.",
+                "commander": ["Omnath, Locus de Tudo"],
+                "urlImage":"",
+                "placing":1
+            },
+            {
+                "player":"Marlon O.",
+                "commander": ["Noyan Dar, Moldador do Turbilhão"],
+                "urlImage":"",
+                "placing":2
+            },
+            {
+                "player":"Denilson",
+                "commander": ["Tatyova, Druida Bêntica"],
+                "urlImage":"",
+                "placing":3
+            },
+            {
+                "player":"Renan O.",
+                "commander": ["Capitão N'ghathrod"],
+                "urlImage":"",
+                "placing":4
+            }
+        ]
+    }
+]
